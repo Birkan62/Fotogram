@@ -25,9 +25,4 @@ function getNotesHtml(index){
 }
 
 
-const meinDiv = document.getElementById('meinDiv');
-
-const meinButton = document.createElement('button');
-
-
-meinButton.textContent = 'Klick mich!';
+<button onclick="myFunction()">Click me</button>
